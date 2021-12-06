@@ -91,7 +91,7 @@ $(document).ready(function () {
 						var now = new Date();
 						var jsDate = now.getDate()+'-'+(now.getMonth()+1)+'-'+now.getFullYear();
 						// Logo converted to base64
-						 //var logo = getBase64FromImageUrl('https://zapadmin.com.br/cgfo/asset/datatables/toppdf.jpg');
+						 //var logo = getBase64FromImageUrl('toppdf.jpg');
 						// The above call should work, but not when called from codepen.io
 						// So we use a online converter and paste the string in.
 						// Done on http://codebeautify.org/image-to-base64-converter
